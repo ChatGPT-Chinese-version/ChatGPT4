@@ -17,13 +17,13 @@
 ## 国内AI大模型平台
 除了ChatGPT，国内几大科技公司也推出了自己的AI大模型，可以提供类似ChatGPT的智能对话体验：
 
-1. 文心一言（Baidu） - https://yiyan.baidu.com/welcome
-百度推出的大语言模型，专注于中文对话和文本生成。
-2. 讯飞星火（iFLYTEK） - https://xinghuo.xfyun.cn/
-3. 科大讯飞出品，拥有强大的中文处理能力。
-通义千问（Alibaba Cloud） - https://tongyi.aliyun.com/
-4. 阿里云的AI大模型，专注于中文语境的深度对话。
-5. Kimi助手（月之暗面） - https://kimi.moonshot.cn/
+1. 文心一言（Baidu） - https://yiyan.baidu.com/welcome  
+百度推出的大语言模型，专注于中文对话和文本生成。  
+2. 讯飞星火（iFLYTEK） - https://xinghuo.xfyun.cn/  
+3. 科大讯飞出品，拥有强大的中文处理能力。  
+通义千问（Alibaba Cloud） - https://tongyi.aliyun.com/  
+4. 阿里云的AI大模型，专注于中文语境的深度对话。  
+5. Kimi助手（月之暗面） - https://kimi.moonshot.cn/  
 月之暗面公司开发的一款智能助手，适合日常对话和助理任务。
 
 ## 其他常用的ChatGPT镜像站点
